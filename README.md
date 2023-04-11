@@ -14,3 +14,7 @@ Task
 
 
 ## Result
+
+![Screenshot-2](https://user-images.githubusercontent.com/121253029/231272203-68ac84c3-b06d-4dde-89bc-aae5d1a25d71.png)
+![Screenshot-3](https://user-images.githubusercontent.com/121253029/231272228-655a45a4-1c36-4fa8-9aaa-10f73574f286.png)
+![Screenshot-1](https://user-images.githubusercontent.com/121253029/231272248-cbdd3fd3-8500-42f3-9101-1ab5c59c8b1a.png)
